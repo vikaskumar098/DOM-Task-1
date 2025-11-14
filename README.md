@@ -100,6 +100,7 @@ Feel free to improve the UI or add new features like reset button, animations, e
 ## 🧑‍💼 About the Author
 
 **Vikas Kumar**
+
 LinkedIn: [linkedin.com/in/vikas0905](https://www.linkedin.com/in/vikas0905/)
 
 ---
