@@ -29,7 +29,8 @@ DOM-Task-1/
 
 ## 🖥️ Demo Screenshot
 
-(Upload a screenshot and put the image link here)
+<img width="1914" height="722" alt="Screenshot 2025-11-15 022645" src="https://github.com/user-attachments/assets/fcacca30-e7cd-4d9e-8655-abe3428d0c0d" />
+
 
 ---
 
